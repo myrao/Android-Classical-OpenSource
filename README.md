@@ -17,8 +17,22 @@ Android开发中 个人遇到和使用过的值得分享的资源合集
 	Android 开源项目第五篇——优秀个人和团体篇
 	  乐于分享并且有一些很不错的开源项目的个人和组织，包括 JakeWharton、Chris Banes、Koushik Dutta 等
 	  
+
+
+
+**AndroidDevTools 开源项目分类汇总** 
+
+项目地址：<https://github.com/inferjay/AndroidDevTools>
+官方网站：<http://www.androiddevtools.cn/> 
+
+ 
+	项目说明：
+	收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
+	欢迎大家推荐自己在Android开发过程中用的好用的工具、学习开发教程、用到设计素材，欢迎Star、Fork 😄。
+
 	 
 **工具类：**
 
  - 关于APK瘦身值得分享的一些经验：<http://www.jianshu.com/p/bd90dee57ad0>
  - PNG压缩：<https://tinypng.com/>
+
