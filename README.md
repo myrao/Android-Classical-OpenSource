@@ -84,7 +84,6 @@ Personal android code from my technology blogs <http://ticktick.blog.51cto.com>
 	（3）ImageConvertor.java 封装了Android中各种图像格式转换，包括：NV21，YUY2、RGB565、ARGB8888、PNG、JPEG、Bitmap之间的转换操作。
 
 
-	 
 **工具类：**
 
  - 关于APK瘦身值得分享的一些经验：<http://www.jianshu.com/p/bd90dee57ad0>
