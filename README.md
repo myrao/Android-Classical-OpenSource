@@ -30,9 +30,65 @@ Android开发中 个人遇到和使用过的值得分享的资源合集
 	收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 	欢迎大家推荐自己在Android开发过程中用的好用的工具、学习开发教程、用到设计素材，欢迎Star、Fork 😄。
 
+**个人博客资源：**
+Personal android code from my technology blogs <http://ticktick.blog.51cto.com>
+	
+项目地址：<https://github.com/Jhuster/Android>
+
+	本目录下的代码都是来自于我的博客《Android应用开发》系列文章，本系列文章介绍Android开发的一些基础和进阶知识，并附带有一些简单的Demo示例，这些示例代码中很多Java文件都对Android API进行了良好的封装，可以直接拿到自己的项目中使用。
+
+	Code List
+
+	Builder 给出了使用ant编译Android工程的通用shell脚本，相关博文：Android开发实践：用脚本编译Android工程
+
+	GroupList 封装并演示了如何使用Android的ExpandableListView控件，相关博文：Android开发实践：多级列表的封装与应用
+
+	PopDialog 封装并演示了如何使用Android的PopupWindow控件，相关博文：Android开发实践：用PopupWindow实现自定义Dailog
+
+	JniCallback 演示了如何从Native线程回调Java的函数，相关博文：Android开发实践：JNI层线程回调Java函数示例
+
+	JniBuffer 演示了各种从Java端到Native层的Buffer传递方法，相关博文：Android开发实践：Java层与Jni层的数组传递
+
+	LoopThread 演示了如何实现一个自定义的带Loop消息循环的线程，相关博文：Android开发实践：自定义带消息循环（Looper）的工作线程
+
+	VideoPlayer 演示了Android隐式Intent的用法，相关博文：Android开发实践：实战演练隐式Intent的用法
+
+	VideoServer 演示了如何利用NanoHttpd搭建一个Android视频服务器，相关博文：基于NanoHttpd的Android视频服务器开发
+
+	CustomView 演示了如何自定义View和ViewGroup，并给出了一个柱状图动画自定义View的实现，相关博文：
+
+	（1）Android开发实践：为什么要继承onMeasure()
+
+	（2）Android开发实践：自定义ViewGroup的onLayout()分析
+
+	（3）Android开发实践：自定义带动画的View
+
+	WIFI 封装了Andriod WIFI扫描和连接的相关API，相关博文：
+
+	（1）Android开发实践：WIFI扫描功能的封装
+
+	（2）Android开发实践：WIFI连接功能的封装
+
+	Socket封装了Android中的Socket相关API
+
+	（1） Broadcaster.java 封装了UDP广播包的收发操作，相关博文：Android Socket 发送广播包的那些坑
+
+	MediaDemo 给出了Android平台下多媒体相关API的demo代码，相关博文：Android中如何提取和生成mp4文件
+
+	Utils 给出了一系列的工具类代码
+
+	（1）SignatureGen.java 一个可以生成Java函数签名字符串的工具类，相关博文: Android开发实践：JNI函数签名生成器
+
+	（2）BitmapHelper.java 一个封装了Bitmap操作的工具类，包括图片的打开、保存、剪裁、旋转等操作，相关博文: Android开发实践：自己动手编写图片剪裁应用（3）
+
+	（3）ImageConvertor.java 封装了Android中各种图像格式转换，包括：NV21，YUY2、RGB565、ARGB8888、PNG、JPEG、Bitmap之间的转换操作。
+
+
 	 
 **工具类：**
 
  - 关于APK瘦身值得分享的一些经验：<http://www.jianshu.com/p/bd90dee57ad0>
  - PNG压缩：<https://tinypng.com/>
+ 
+ 
 
