@@ -88,6 +88,26 @@ Personal android code from my technology blogs <http://ticktick.blog.51cto.com>
 
  - 关于APK瘦身值得分享的一些经验：<http://www.jianshu.com/p/bd90dee57ad0>
  - PNG压缩：<https://tinypng.com/>
+
+**真机调试：**
+
+ - 云测（Testin）:http://www.testin.cn/
+
+ - 优测（腾讯的）： http://utest.qq.com/
+
+**数据统计，Bug Log/Crash Reporter：**
+
+ - 国内：
+　　　　
+ 	- 友盟 ：http://www.umeng.com/
+　　　　说明：友盟的功能集成挺多，常用的基本都覆盖了，社会化组件/数据统计/Bug分析基本都通用，并且使用起来比较直观。SDK使用的话也不算麻烦。
+　　　　优点就不说了，说说缺点吧，就是Crash Report不能实时邮件反馈，第二天9点30左右才会收到前一天的统计概况。详情的话倒是可以实时查询。
+
+ - 国外：
+
+ 	- Twitter的Fabric：官网： https://fabric.io/
+　　　　优点：反馈及时，一般有了Bug邮件没过多久就收到了，并且集成起来很方便，基于Android Studio的一个插件自动将SDK打入项目中。
+　　　　缺点：不知道是不是我的环境问题，经常会Connect出错或者项目Build中断。
  
  
 
