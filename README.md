@@ -17,6 +17,15 @@ Android开发中 个人遇到和使用过的值得分享的资源合集
 	Android 开源项目第五篇——优秀个人和团体篇
 	  乐于分享并且有一些很不错的开源项目的个人和组织，包括 JakeWharton、Chris Banes、Koushik Dutta 等
 	  
+	  
+**awesome-android-ui**
+
+项目地址：<https://github.com/wasabeef/awesome-android-ui>
+	
+	项目说明：
+	国外wasabeef大神分享的一个库，同上面Trinea开源的共享库。
+	A curated list of awesome Android UI/UX libraries.	  	  	  	  
+	  
 
 
 
@@ -29,6 +38,16 @@ Android开发中 个人遇到和使用过的值得分享的资源合集
 	项目说明：
 	收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 	欢迎大家推荐自己在Android开发过程中用的好用的工具、学习开发教程、用到设计素材，欢迎Star、Fork 😄。
+	
+	
+**android-tech-frontier**
+
+项目地址：<https://github.com/eterrao/android-tech-frontier.git>
+	
+	项目说明：
+	一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目,让我们的技术跟上国际步伐。
+	
+	我们翻译的文章在能够联系到作者的情况下都会在获得作者授权后进行翻译，并且公开发布。发布的文章中都会保留原文链接、作者名，如有相关的版权协议我们也会一并附上。目前已经联系到的作者列表请参考授权文档;	
 
 **个人博客资源：**
 Personal android code from my technology blogs <http://ticktick.blog.51cto.com>
@@ -84,6 +103,8 @@ Personal android code from my technology blogs <http://ticktick.blog.51cto.com>
 	（3）ImageConvertor.java 封装了Android中各种图像格式转换，包括：NV21，YUY2、RGB565、ARGB8888、PNG、JPEG、Bitmap之间的转换操作。
 
 
+
+
 **工具类：**
 
  - 关于APK瘦身值得分享的一些经验：<http://www.jianshu.com/p/bd90dee57ad0>
@@ -108,6 +129,7 @@ Personal android code from my technology blogs <http://ticktick.blog.51cto.com>
  	- Twitter的Fabric：官网： https://fabric.io/
 　　　　优点：反馈及时，一般有了Bug邮件没过多久就收到了，并且集成起来很方便，基于Android Studio的一个插件自动将SDK打入项目中。
 　　　　缺点：不知道是不是我的环境问题，经常会Connect出错或者项目Build中断。
+　　　　
  
  
 
