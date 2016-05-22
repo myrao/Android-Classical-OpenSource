@@ -1,7 +1,8 @@
 # Android-Classical-OpenSource
-Android开发中 个人遇到和使用过的值得分享的资源合集
 
-**Trinea的OpenProject：强烈推荐的Android 开源项目分类汇总**
+``Android开发中 个人遇到和使用过的值得分享的资源合集``
+
+#### Trinea的OpenProject：强烈推荐的Android 开源项目分类汇总
 
 项目地址：<https://github.com/Trinea/android-open-project> 
  
@@ -17,18 +18,16 @@ Android开发中 个人遇到和使用过的值得分享的资源合集
 	Android 开源项目第五篇——优秀个人和团体篇
 	  乐于分享并且有一些很不错的开源项目的个人和组织，包括 JakeWharton、Chris Banes、Koushik Dutta 等
 	  
-**----------------------------------------------------------- Divider ------------------------------------------------------------**
 	  
-**awesome-android-ui**
+#### awesome-android-ui
 
 项目地址：<https://github.com/wasabeef/awesome-android-ui>
 	
 	项目说明：
 	国外wasabeef大神分享的一个库，同上面Trinea开源的共享库。
 	A curated list of awesome Android UI/UX libraries.	  	  	  	  
-**----------------------------------------------------------- Divider ------------------------------------------------------------**
 
-**AndroidDevTools 开源项目分类汇总** 
+#### AndroidDevTools 开源项目分类汇总
 
 项目地址：<https://github.com/inferjay/AndroidDevTools>
 官方网站：<http://www.androiddevtools.cn/> 
@@ -37,10 +36,9 @@ Android开发中 个人遇到和使用过的值得分享的资源合集
 	项目说明：
 	收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 	欢迎大家推荐自己在Android开发过程中用的好用的工具、学习开发教程、用到设计素材，欢迎Star、Fork 😄。
+
 	
-**----------------------------------------------------------- Divider ------------------------------------------------------------**
-	
-**android-tech-frontier**
+#### android-tech-frontier
 
 项目地址：<https://github.com/eterrao/android-tech-frontier.git>
 	
@@ -49,12 +47,19 @@ Android开发中 个人遇到和使用过的值得分享的资源合集
 	
 	我们翻译的文章在能够联系到作者的情况下都会在获得作者授权后进行翻译，并且公开发布。发布的文章中都会保留原文链接、作者名，如有相关的版权协议我们也会一并附上。目前已经联系到的作者列表请参考授权文档;
 	
-**----------------------------------------------------------- Divider ------------------------------------------------------------**
+####个人博客资源：
 
-**个人博客资源：**
-Personal android code from my technology blogs <http://ticktick.blog.51cto.com>
+
+#### [stormZhang](http://stormzhang.com/)
+
+	每个人都有一段艰辛、苦逼的成长时光，所以学会从博客开始记录自己一点一滴。这个博客的文章每次看都让自己有更多的动力去学习。提醒我自己别忘了还有梦想。
+	PS：还有很多干货。
+
+
+
+
+####[tickTick 的BLOG](http://ticktick.blog.51cto.com)
 	
-项目地址：<https://github.com/Jhuster/Android>
 
 	本目录下的代码都是来自于我的博客《Android应用开发》系列文章，本系列文章介绍Android开发的一些基础和进阶知识，并附带有一些简单的Demo示例，这些示例代码中很多Java文件都对Android API进行了良好的封装，可以直接拿到自己的项目中使用。
 
@@ -105,30 +110,28 @@ Personal android code from my technology blogs <http://ticktick.blog.51cto.com>
 	（3）ImageConvertor.java 封装了Android中各种图像格式转换，包括：NV21，YUY2、RGB565、ARGB8888、PNG、JPEG、Bitmap之间的转换操作。
 
 
-**----------------------------------------------------------- Divider ------------------------------------------------------------**
 
-**工具类：**
+#### 工具类：
 
  - 关于APK瘦身值得分享的一些经验：<http://www.jianshu.com/p/bd90dee57ad0>
  - PNG压缩：<https://tinypng.com/>
  
- **----------------------------------------------------------- Divider ------------------------------------------------------------**
 
-**真机调试：**
+#### 真机调试：
 
- - 云测（Testin）:http://www.testin.cn/
+ - 云测 (Testin): <http://www.testin.cn/>
 
- - 优测（腾讯的）： http://utest.qq.com/
+ - 优测 (腾讯的): <http://utest.qq.com/>
  
- **----------------------------------------------------------- Divider ------------------------------------------------------------**
 
-**数据统计，Bug Log/Crash Reporter：**
+#### 数据统计，Bug Log/Crash Reporter：**
 
  - 国内：
 　　　　
  	- 友盟 ：http://www.umeng.com/
 　　　　说明：友盟的功能集成挺多，常用的基本都覆盖了，社会化组件/数据统计/Bug分析基本都通用，并且使用起来比较直观。SDK使用的话也不算麻烦。
 　　　　优点就不说了，说说缺点吧，就是Crash Report不能实时邮件反馈，第二天9点30左右才会收到前一天的统计概况。详情的话倒是可以实时查询。
+　　　　
 
  - 国外：
 
