@@ -140,8 +140,11 @@ PS：`还有很多干货`。
 
 ## 通用
 
-- 关于APK瘦身值得分享的一些经验：<http://www.jianshu.com/p/bd90dee57ad0>
-- PNG压缩：<https://tinypng.com/>
+- [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0)
+- [PNG压缩](https://tinypng.com/)
+- [几条小经验帮你美化你的GitHub开源项目](http://www.jianshu.com/p/ae6749858f28)
+- [BGM音频素材网站](https://audiojungle.net/category/sound/buttons-menus)
+- [一个很好的网站模版](http://www.strikingly.com/s/select_template?is_new_user=1)
 
 
 ------
@@ -225,11 +228,51 @@ PS：`还有很多干货`。
 
 一个全球集中的图片开放API
 
+### [看知乎](http://www.kanzhihu.com/api-document)
+
+知乎开放的API，同样可以练练手
+
+### [OhMyBilibili](http://www.jianshu.com/p/f69a55b94c05)
+
+该作者为了信仰对Bilibili仿写的一个APP
+
+Bilibili的API如下：
+
+- BiliBili API / REST service written in Go
+  [WhiteBlue](https://github.com/WhiteBlue)/**bilibili-go**
+- bilibili官方文档搬运(官方文档已不对外开放)
+  [fython](https://github.com/fython)/**BilibiliAPIDocs**
+
+
+## Android资源网站
+
+- [资源网站：看源社区](http://www.see-source.com/androidwidget/list.html)
+- [美团点评技术团队博客](http://tech.meituan.com/archives)
+
+
+## 看看Android新技术
+
+[http://www.jianshu.com/p/8ed9543b15db](http://www.jianshu.com/p/8ed9543b15db)
+
+感觉Android不停的更新迭代，技术也是层出不穷，在深度学习的同时也要了解当今技术广度的变化嘛，这篇博客写的挺全面，涉及Retrofit，RxJava，MVP，MVVM等等
+
+## VR相关资源
+
+一个VR资源汇总贴：[https://github.com/GeekLiB/Lee-VR-Source](https://github.com/GeekLiB/Lee-VR-Source)
+
 ------
+
+# 设计
+
+[Dribbble每日最佳设计推送](http://share.jike.ruguoapp.com/topics/5517b3d3e4b08971ae480d7d)
 
 # 面试相关 
 
 面试，面试，面试！重要的事情说三遍！
+
+## [Android面试经验 -- 乐视](http://blog.csdn.net/zxccxzzxz/article/details/52733726)
+
+> 此次投的是三年经验的[Android](http://lib.csdn.net/base/15)开发，最后反而因为自己的失误，没有准备充分而导致结果很悲剧，以此告诫自己千万不能疏忽大意。
 
 ## [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A)
 
